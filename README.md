@@ -1,2 +1,2 @@
 # ApplicationProgrammingPython
-Creating to see valutes my first lab
+Creating parser to see valutes my first lab
